@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yearbook Admin Page</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<style>
+		body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #f2f2f2;
+}
+
+
+
+	</style>
+</head>
+<body>
+	<h1>Yearbook Admin Page</h1>
+	<form action="db.php" method="post" enctype="multipart/form-data">
+		<label for="name">Name:</label>
+		<input type="text" name="name" id="name" required>
+		<br>
+		<label for="photo">Photo:</label>
+		<input type="file" name="photo" id="photo" required>
+		<br>
+		<label for="description">Description:</label>
+		<textarea name="description" id="description" required></textarea>
+		<br>
+		<label for="year">Year Graduated:</label>
+		<input type="text" name="year" id="year" required>
+		<br>
+		<label for="batch">Batch Name:</label>
+		<input type="text" name="batch" id="batch" required>
+		<br>
+		<input type="submit" value="Add Student">
+	</form>
+</body>
+</html>

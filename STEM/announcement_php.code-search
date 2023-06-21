@@ -1,0 +1,39 @@
+# Query: announcement.php
+
+12 results - 12 files
+
+admission_verification.php:
+  73:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+admission.php:
+  57:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+alumni.php:
+  58:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+alumni1.php:
+  51:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+alumni2.php:
+  51:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+alumni3.php:
+  51:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+attire.php:
+  48:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+garments.php:
+  50:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+student_life.php:
+  49:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+studentlife-details1.php:
+  51:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+studentlife-details2.php:
+  51:                     <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>
+
+studentlife-details3.php:
+  51:                   <a href="alumni3.php"><img class="announcement_img" src="images/news.png" alt="calendar"></a>

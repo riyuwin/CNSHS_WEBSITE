@@ -1,0 +1,467 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100%; 
+}
+  
+.auth_logo_image{ 
+    margin: 8vw 0vw 0vw;
+    width: 10vw;
+    height: 10vw; 
+  }  
+
+.auth_container{ 
+    margin: 0vw 0vw 0vw;
+    width:100%;
+    height: 50vw; 
+    text-align: center;
+    background-image: url(../images/registration_bg1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+
+.content_wrapper{ 
+    margin: 6vw 10vw 0vw;
+    width: 81%;
+    height: 36vw;
+    float: left; 
+    background-image: url(../images/green_white.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+}
+
+.text_form_label{ 
+    margin: -33vw 40vw 0vw; 
+    width: 48%;
+    height: 33vw;   
+    color: black;   
+    float: left;    
+} 
+
+
+.text_form1_label{ 
+    margin: 1vw 1vw 0vw; 
+    width: 47%;
+    height: 33vw;   
+    color: black;   
+    float: left;  
+} 
+
+
+.applynow_whitetext_container{ 
+    margin: 2vw 4vw 0vw; 
+    width: 80%;
+    height: 10vw;  
+    color: white;   
+    float: left;   
+} 
+
+
+.applynow_headline_text{ 
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2vw;
+    letter-spacing: 3px;    
+}
+
+
+.applynow_caption_container{
+    font-family: 'Sansita Swashed', cursive; 
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5vw;
+    letter-spacing: 2px; 
+}
+
+
+.login_text_container{ 
+    margin: 3vw 3vw 0vw;  
+    width: 80%;
+    height: 5vw;  
+    color: black;  
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: 1000;
+    font-size: 1.5vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+ 
+
+.email_container{
+    margin: 1vw 3vw 0vw;  
+    width: 80%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+}
+
+.email_container p{ 
+    margin: 0vw 0vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+.input_textlemail_container{ 
+    margin: 0.5vw 0vw 0vw; 
+    width: 100%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+.password_container{
+    margin: 2vw 3vw 0vw; 
+    width: 80%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;  
+}
+
+.password_container p{ 
+    margin: 0vw 0vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+ 
+.input_password_container{ 
+    margin: 0.5vw 0vw 0vw; 
+    width: 100%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+.register_btn_container{
+    margin: 4vw 10.5vw 0vw; 
+    width: 50%;
+    height: 3vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+
+}
+
+.register_btn{
+    background-color: #262F2C; /* Green */
+    border: none;
+    color: white;
+    width: 100%;
+    height: 2.7vw;
+    padding: 0.7vw;
+    border-radius: 5px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 1.2vw;
+    letter-spacing: 4px;
+}
+
+.login_caption_label_container{ 
+    margin: 0.5vw 0vw 0vw 11vw; 
+    width: 35%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 300;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+
+.login_label_container{ 
+    margin: 0.5vw 0vw 0vw 1vw; 
+    width: 10%;
+    height: 1vw;   
+    color: blue;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 300;
+    font-size: 0.8vw;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+input[type=email]{
+    margin: 0vw 0vw 0vw;
+    width: 100%;
+    height: 0.4vw;
+    padding: 1vw; 
+    float: left;
+}
+
+input[type=password]{
+    margin: 0vw 0vw 0vw;
+    width: 100%; 
+    height: 0.4vw;
+    padding: 1vw; 
+    float: left;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    
+    .header_container{  
+    background-color: #16A37D;  
+    width: 100%;
+    height: 30vw;  
+    }
+    
+
+
+    .stem_text_container{   
+    display: none;
+    }
+    
+    .school_name_text{ 
+    display: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1vw;
+    letter-spacing: 1px;  
+    }
+
+    .notif_container{
+        display: none;
+    }
+ 
+    .logo_container{  
+        position: relative;  
+        margin: 2vw 2vw;
+        filter: drop-shadow(0.1rem 0.1rem 0.11rem #000000);
+        display: inline;
+        width: 19%;
+        height: 100%;   
+        float: left;  
+    }
+    
+    .logo_image{ 
+      margin: 3vw 0vw 0vw;
+      width: 95%;
+      height: 60%;
+    }
+
+    .stem_name_text_container_responsive{
+        position: relative;  
+        margin: 12vw 0vw;
+        display: inline;
+        width: 60%;
+        height: 30%;   
+        float: left;  
+    }
+
+    .stem_name_text_container_responsive h1{   
+        color:white;
+        text-align: left;
+        font-family: 'Play', sans-serif;
+        font-weight: 100;
+        font-size: 3vw;  
+    }
+    .stem_name_text_container_responsive p{ 
+          
+        margin: 1vw 0vw 0vw;
+        color:white;
+        text-align: left;
+        font-family: 'Dancing Script', cursive;
+        font-weight: 10;
+        font-size: 2vw; 
+        letter-spacing: 1.2px; 
+    }
+
+    .parent_container{
+        display: none;
+    }
+
+    .events_container{
+        display: none;
+    }
+
+    .aboutus_text_container{
+        display: none;
+    }
+    
+    .admission_text_container{
+        display: none;
+    }
+
+    .garments_text_container{
+        display: none;
+    }
+
+    .student_life_text_container{
+        display: none;
+    }
+
+    .alumni_text_container{
+        display: none;
+    }
+    .header_container_whitebg{
+        display: none;
+      }
+    
+    .applynow_headline_text{ 
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-weight: 800;
+        font-size: 2vw;
+        letter-spacing: 2px; 
+    }
+     
+    .applynow_caption_container{
+        font-family: 'Sansita Swashed', cursive; 
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.5vw;
+        letter-spacing: 1px; 
+    }
+
+     
+    .email_label_container{  
+        margin: 0vw 0vw 0vw;
+        width: 80%;  
+        letter-spacing: 0.5px;
+    }
+
+    
+    .text_form_label{ 
+        margin: 10vw 8vw 0vw; 
+        width: 80%;
+        height: 50vw;   
+        color: black;   
+        float: left;  
+        background-color: white; 
+        box-shadow: 0px 2px 4px #222;
+    } 
+
+
+    .text_form1_label{ 
+        display: none;
+    } 
+     
+
+    .email_container{
+        margin: 1vw 6vw 0vw;  
+    }
+
+    .input_textlemail_container{ 
+        margin: 0.5vw 0vw 1vw; 
+        width: 95%;  
+    } 
+
+    .input_password_container{ 
+        margin: 0.5vw 0vw 0vw; 
+        width: 95%;   
+    } 
+
+    .password_container{ 
+        margin: 3vw 6vw 0vw;
+        height: 5vw;       
+    }
+
+    .applynow_whitetext_container{ 
+        margin: 14vw 4vw 0vw; 
+        width: 80%;
+        height: 50vw;  
+        color: white;   
+        float: left;  
+    } 
+      
+    .content_wrapper{ 
+        margin: 3vw 10vw 0vw;
+        width: 81%;
+        height: 37vw; 
+        background-image: none;
+    }
+    
+    .register_btn{ 
+        margin: 0vw 7.5vw 0vw;
+        border-radius: 2px; 
+        letter-spacing: 2px;
+    }
+    
+    .register_btn_container{
+        margin: 8vw 9vw 0vw;  
+    
+    }
+
+    .login_caption_label_container{  
+        margin: 1vw 0vw 0vw 22vw;
+        width: 28%; 
+        font-size: 1vw;
+        letter-spacing: 0.2px;  
+    } 
+    
+    .login_label_container{
+        margin: 1vw 0vw 0vw;
+        font-size: 1vw;
+        letter-spacing: 0.2px; 
+    }
+
+    .auth_container{ 
+        margin: 0vw 0vw 0vw;
+        width:100%;
+        height: 140vw; 
+        text-align: center;
+        background-image: url(../images/registration_bg1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center; 
+    }
+
+    .login_text_container{ 
+        margin: 6vw 6vw 1vw;  
+    } 
+
+    input[type=email]{
+        font-size: 1vw;
+    }
+    
+    input[type=password]{
+        font-size: 1vw;
+    }
+
+}
+
+
+.error{
+    background: #F2DEDE;
+    color: #A94442;
+    margin: 2vw 4vw 0vw;
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+    float: left;
+}

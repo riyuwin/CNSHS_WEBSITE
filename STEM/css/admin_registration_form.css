@@ -1,0 +1,1011 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100%; 
+}
+   
+.auth_logo_image{ 
+  margin: 8vw 0vw 0vw;
+  width: 10vw;
+  height: 10vw; 
+}
+
+.alumni_image{ 
+    margin: 15vw 0vw 0vw;
+    width: 50vw;
+    height: 50vw; 
+  }
+  
+
+.apply_now_container{
+    width: 100%;
+    height: 6vw; 
+    margin: 0.1vw 0vw 0vw;   
+}  
+
+
+.applynow_text_container{ 
+    margin: 1vw 0vw 0vw; 
+    width: 100%;
+    height: 5vw;  
+    color: black;  
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left; 
+} 
+ 
+.applynow_whitetext_container{ 
+    margin: 2vw 4vw 0vw; 
+    width: 80%;
+    height: 10vw;  
+    color: white;   
+    float: left;   
+} 
+
+.applynow_headline_text{ 
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2vw;
+    letter-spacing: 3px;    
+}
+ 
+.applynow_caption_container{
+    font-family: 'Sansita Swashed', cursive; 
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5vw;
+    letter-spacing: 2px; 
+}
+
+.registration_text_container{ 
+    margin: 3vw 3vw 0vw; 
+    width: 80%;
+    height: 5vw;  
+    color: black;  
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: 1000;
+    font-size: 1.5vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+ 
+
+.form_container{ 
+    margin: 1.2vw 0vw 0vw;
+    width: 100%;
+    height: 32vw;  
+    float: left; 
+}
+
+.header_white_caption{  
+    margin: 0vw 0vw 0vw;
+    width: 100%;
+    height: 6.5vw; 
+    background-color: white; 
+    float: left; 
+} 
+
+
+.admission_green_text_container{ 
+    margin: 1vw 2vw 0vw; 
+    width: 90%;
+    height: 4vw;  
+    color: white;   
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: 500;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;
+}
+
+
+.header_admission{ 
+    margin: 6vw 0vw 0vw;
+    width: 100%;
+    height: 11.8vw;  
+    float: left; 
+}
+
+
+.header_green_admission{  
+    margin: -0.5vw 0vw 1vw;
+    border: 1px solid black;
+    width: 100%;
+    height: 4vw; 
+    background-color: #16A37D; 
+    float: left; 
+}
+
+
+.header_white_admission{  
+    margin: -0.5vw 0vw 1vw;
+    border: 1px solid black;
+    width: 100%;
+    height: 4vw; 
+    background-color: #16A37D; 
+    float: left; 
+}
+ 
+
+.fname_label_container{ 
+    margin: 0vw 3vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.mname_label_container{ 
+    margin: 0vw 1vw 0vw; 
+    width: 60%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+
+.lname_label_container{ 
+    margin: 0vw 1vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+
+.email_label_container{ 
+    margin: 0vw 0vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.password_label_container{ 
+    margin: 0vw 0vw 0vw; 
+    width: 50%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+
+.confirm_password_label_container{ 
+    margin: 0vw 0vw 0vw 0.5vw; 
+    width: 60%; 
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 545;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;  
+} 
+
+.login_caption_label_container{ 
+    margin: 0.5vw 0vw 0vw 12vw; 
+    width: 35%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 300;
+    font-size: 0.8vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.login_label_container{ 
+    margin: 0.5vw 0vw 0vw 1vw; 
+    width: 10%;
+    height: 1vw;   
+    color: blue;    
+    font-family: 'Poppins', sans-serif;   
+    text-align: left;
+    font-weight: 300;
+    font-size: 0.8vw;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.input_textfname_container{ 
+    margin: 0.5vw 3vw 0vw; 
+    width: 70%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.input_textmname_container{ 
+    margin: 0.5vw 1vw 0vw; 
+    width: 80%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.input_textlname_container{ 
+    margin: 0.5vw 1vw 0vw; 
+    width: 80%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+.input_textlemail_container{ 
+    margin: 0.5vw 0vw 0vw; 
+    width: 90%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+} 
+
+.input_password_container{ 
+    margin: 0.5vw 0vw 0vw; 
+    width: 95%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+.input_confirm_password_container{ 
+    margin: 0.5vw 0vw 0vw 0.5vw; 
+    width: 95%;
+    height: 2vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+} 
+
+
+.input_image_container{
+    margin: 0.2vw -2vw 0vw; 
+    width: 40%;
+    height: 3vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+}
+
+.fname_container{
+    margin: 0vw; 
+    width: 35%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+}
+
+.mname_container{
+    margin: 0vw; 
+    width: 30%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;    
+}
+
+.lname_container{
+    margin: 0vw; 
+    width: 35%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+}
+
+.email_container{
+    margin: 1vw 3vw 0vw; 
+    width: 60%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left; 
+}
+
+.password_container{
+    margin: 1vw 0vw 0vw 3.2vw; 
+    width: 45%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;  
+}
+
+.confirm_password_container{
+    margin: 1vw 0.1vw 0vw; 
+    width: 45%;
+    height: 4vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;  
+}
+
+.register_btn_container{
+    margin: 2.5vw 11vw 0vw; 
+    width: 50%; 
+    height: 3vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;   
+
+}
+
+.text_form_label{ 
+    margin: -33vw 40vw 0vw; 
+    width: 48%;
+    height: 33vw;   
+    color: black;   
+    float: left;   
+    
+} 
+
+
+.text_form1_label{ 
+    margin: 1vw 1vw 0vw; 
+    width: 47%;
+    height: 33vw;   
+    color: black;   
+    float: left;    
+} 
+
+
+/* FORM STYLES */
+
+.image_form_label{
+    margin: 0vw; 
+    width: 45%;
+    height: 3.5vw;   
+    color: black;   
+    float: left;  
+}
+
+ 
+.form_radio_label_container{ 
+    margin: -1.3vw 5vw 0vw; 
+    width: 30%;
+    height: 1vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;  
+    text-align: left;
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;
+} 
+
+.form_radio_container{ 
+    margin: 0vw 0vw 0vw; 
+    width: 27%;
+    height: 3.5vw;   
+    color: black;    
+    font-family: 'Poppins', sans-serif;  
+    text-align: left;
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;
+} 
+
+.date_container{
+    margin: 0vw -2vw 0vw; 
+    width: 60%; 
+    height: 3.5vw;   
+    color: black;     
+    font-family: 'Poppins', sans-serif;  
+    text-align: left;
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: left;
+}
+
+.picture_2by2_btn {
+    padding: 1px;
+    margin: 0.2vw;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    height: 90%;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif; 
+    letter-spacing: 1px; 
+    font-size: 0.8vw;
+    background-image: url(../images/image_symbol.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: 10%;    
+}
+
+
+.picture_label{
+    display: inline-block;
+    background-color: white;
+    outline: 1px solid #313131;
+    color: black;
+    padding: 0.8rem;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif; 
+    letter-spacing: 1px; 
+    font-size: 0.8vw;
+    cursor: pointer;
+    margin-top: 0.2rem;
+    background-image: url(../images/image_symbol.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: 10%;    
+}
+
+/* FORM STYLES */
+
+input[type=Text]{
+    margin: 0vw 0vw 0vw;
+    width: 90%;
+    font-size: 1vw;
+    height: 0.4vw;
+    padding: 0.8vw; 
+}
+
+::-webkit-input-placeholder {
+    font-style: italic;
+    font-size: 1vw; 
+    padding: 5px;
+  }
+
+input[type=password]{
+    margin: 0vw 0vw 0vw;
+    width: 90%;
+    font-size: 1vw;
+    height: 0.4vw;
+    padding: 0.8vw; 
+}
+
+
+input[type=file]{
+    margin: 0vw 0vw 0vw;
+    width: 80%;
+    font-size: 0.9vw;
+    height: 1vw;
+    padding: 1vw; 
+}
+
+input[type=email]{
+    margin: 0.5vw 0vw 0vw;
+    width: 70%;
+    height: 0.4vw;
+    padding: 1vw; 
+}
+
+input[type=radio]{
+    margin: 1.3vw 0vw 0vw;
+    width: 53%; 
+    height: 1.1vw;
+    padding: 1vw; 
+}   
+
+input[type=date]{
+    margin: 0.5vw 0vw 0vw;
+    width: 72%; 
+    height: 1vw;
+    padding: 0.7vw; 
+    font-size: 1vw; 
+    letter-spacing: 2px;
+}
+
+.next_btn_container{
+    margin: -2.5vw 4vw 0vw; 
+    width: 8%; 
+    font-family: 'Poppins', sans-serif; 
+    height: 3vw;      
+    font-weight: 545;
+    font-size: 1vw;
+    letter-spacing: 1px;
+    float: right;
+}
+
+.button_steps_container{
+    margin: 0vw 0vw 0vw; 
+    width: 100%;
+    height: 3vw;   
+    color: black;   
+    float: left;   
+}
+
+.white_steps_caption{  
+    margin: 1.1vw 0vw 0vw;
+    width: 100%;
+    height: 6.5vw; 
+    background-color: white; 
+    float: left; 
+} 
+
+.button_steps_text_container{
+    margin: 1vw 0vw 0vw; 
+    width: 100%;
+    height: 1.5vw;    
+    float: left;   
+} 
+
+.btn_steps_text{
+    margin: 0.7vw 35.5vw 0vw;
+    width: 30%; 
+    color: black;  
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    float: center;
+    font-weight: 500;
+    font-size: 1vw;
+    letter-spacing: 1px; 
+}
+
+
+.steps_container{
+    margin: 0.5vw 43vw 0vw; 
+    width: 20%;
+    height: 2vw;   
+    color: black;   
+    float: center;   
+}
+
+.step1_container{
+    margin: 0.7vw 0.5vw 0vw; 
+    width: 20%;   
+    background-color: #138264; 
+    border-radius: 1vw;
+    height: 0.5vw;   
+    letter-spacing: 1px;
+    float: left;
+}
+
+.step2_container{
+    margin: 0.7vw 0.5vw 0vw; 
+    width: 20%;   
+    background-color: #138264; 
+    border-radius: 1vw;
+    opacity: 58%; 
+    height: 0.5vw;    
+    letter-spacing: 1px;
+    float: left;
+} 
+
+.step3_container{
+    margin: 0.7vw 0.5vw 0vw; 
+    width: 20%;   
+    background-color: #138264; 
+    border-radius: 1vw;
+    height: 0.5vw;    
+    letter-spacing: 1px;
+    float: left;
+} 
+
+.button{
+    background-color: #16A37D; /* Green */
+    border: none;
+    color: white;
+    width: 100%;
+    height: 2.7vw;
+    padding: 0.7vw;
+    border-radius: 5px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1.2vw;
+    letter-spacing: 1px;
+}
+
+.register_btn{
+    background-color: #262F2C; /* Green */
+    border: none;
+    color: white;
+    width: 100%;
+    height: 2.7vw;
+    padding: 0.7vw;
+    border-radius: 5px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 1.2vw;
+    letter-spacing: 4px;
+}
+
+.grid-container {
+    border: 1px solid black;
+    display: grid; 
+    background-color: #16A37D; 
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto;
+    border: 1px solid black;
+    height: calc(12vh - 10px);
+  }
+ 
+.auth_container{ 
+    margin: 0vw 0vw 0vw;
+    width:100%;
+    height: 50vw; 
+    text-align: center;
+    background-image: url(../images/registration_bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.content_wrapper{ 
+    margin: 6vw 10vw 0vw;
+    width: 81%;
+    height: 36vw;
+    float: left;   
+    background-image: url(../images/green_white.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .header_container{  
+    background-color: #16A37D;  
+    width: 100%;
+    height: 30vw;  
+    }
+    
+
+
+    .stem_text_container{   
+    display: none;
+    }
+    
+    .school_name_text{ 
+    display: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1vw;
+    letter-spacing: 1px;  
+    }
+
+    .notif_container{
+        display: none;
+    }
+ 
+    .logo_container{  
+        position: relative;  
+        margin: 2vw 2vw;
+        filter: drop-shadow(0.1rem 0.1rem 0.11rem #000000);
+        display: inline;
+        width: 19%;
+        height: 100%;   
+        float: left;  
+    }
+    
+    .logo_image{ 
+      margin: 3vw 0vw 0vw;
+      width: 95%;
+      height: 60%;
+    }
+
+    .stem_name_text_container_responsive{
+        position: relative;  
+        margin: 12vw 0vw;
+        display: inline;
+        width: 60%;
+        height: 30%;   
+        float: left;  
+    }
+
+    .stem_name_text_container_responsive h1{   
+        color:white;
+        text-align: left;
+        font-family: 'Play', sans-serif;
+        font-weight: 100;
+        font-size: 3vw;  
+    }
+    .stem_name_text_container_responsive p{ 
+          
+        margin: 1vw 0vw 0vw;
+        color:white;
+        text-align: left;
+        font-family: 'Dancing Script', cursive;
+        font-weight: 10;
+        font-size: 2vw; 
+        letter-spacing: 1.2px; 
+    }
+
+    .parent_container{
+        display: none;
+    }
+
+    .events_container{
+        display: none;
+    }
+
+    .aboutus_text_container{
+        display: none;
+    }
+    
+    .admission_text_container{
+        display: none;
+    }
+
+    .garments_text_container{
+        display: none;
+    }
+
+    .student_life_text_container{
+        display: none;
+    }
+
+    .alumni_text_container{
+        display: none;
+    }
+    .header_container_whitebg{
+        display: none;
+      }
+    
+    .applynow_headline_text{ 
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-weight: 800;
+        font-size: 2vw;
+        letter-spacing: 2px; 
+    }
+     
+    .applynow_caption_container{
+        font-family: 'Sansita Swashed', cursive; 
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.5vw;
+        letter-spacing: 1px; 
+    }
+
+    
+    .fname_container{ 
+        width: 35%; 
+        height: 5vw; 
+    }
+
+    .mname_container{ 
+        width: 30%; 
+        height: 5vw; 
+    }
+
+    .email_container{
+        margin: 1vw 0vw 1vw; 
+        width: 60%;
+        height: 5vw;      
+        font-weight: 545;
+        font-size: 1vw;
+        letter-spacing: 1px;
+        float: left;  
+    }
+
+    .confirm_password_container{ 
+        height: 5vw;         
+    }
+
+    .fname_label_container{  
+        width: 70%;    
+        letter-spacing: 0.5px; 
+    }  
+
+    
+    .mname_label_container{  
+        width: 90%;  
+        letter-spacing: 0.5px; 
+    } 
+
+    .lname_label_container{  
+        width: 80%;  
+        letter-spacing: 0.5px; 
+    }
+
+    .email_label_container{  
+        margin: 0vw 3vw 0vw;
+        width: 80%;  
+        letter-spacing: 0.5px;
+    }
+
+    .password_label_container{  
+        width: 80%;  
+        letter-spacing: 0.5px;
+    }
+
+    .confirm_password_label_container{  
+        width: 80%;  
+        letter-spacing: 0.5px; 
+    }
+    
+    .text_form_label{ 
+        margin: 10vw 0vw 0vw; 
+        width: 100%;
+        height: 50vw;   
+        color: black;   
+        float: left;  
+        background-color: white;
+        box-shadow: 0px 2px 4px #222;
+    } 
+
+
+    .text_form1_label{ 
+        display: none;
+    } 
+    
+
+    .input_textfname_container{  
+        width: 80%; 
+    }
+
+    .input_textlemail_container{ 
+        margin: 0.5vw 2.5vw 0vw; 
+        width: 90%; 
+    } 
+
+    
+    .input_textmname_container{  
+        width: 85%; 
+    } 
+
+    .input_textlname_container{  
+        width: 80%; 
+    }  
+
+    .input_password_container{ 
+        margin: 0.5vw 0vw 0vw; 
+        width: 95%;
+        height: 2vw;      
+        font-weight: 545;
+        font-size: 1vw;
+        letter-spacing: 1px;
+        float: left;    
+    } 
+
+    .input_confirm_password_container{ 
+        margin: 0.5vw 0vw 0vw 0.5vw; 
+        width: 95%;
+        height: 2vw;      
+        font-weight: 545;
+        font-size: 1vw;
+        letter-spacing: 1px;
+        float: left;    
+    } 
+
+    .lname_container{
+        margin: 0vw; 
+        width: 35%;
+        height: 5vw;        
+    }
+
+    .password_container{ 
+        height: 5vw;       
+    }
+
+    .applynow_whitetext_container{ 
+        margin: 14vw 4vw 0vw; 
+        width: 80%;
+        height: 50vw;  
+        color: white;   
+        float: left;  
+    } 
+     
+    input[type=Text]{
+        margin: 0vw 0vw 0vw;
+        width: 90%;
+        font-size: 1vw;
+        height: 0.5vw;
+        padding: 0.8vw; 
+    } 
+ 
+
+    .content_wrapper{ 
+        margin: 3vw 10vw 0vw;
+        width: 81%;
+        height: 37vw; 
+        background-image: none;
+    }
+    
+    .register_btn{ 
+        margin: 0vw 8.5vw 0vw;
+        border-radius: 2px; 
+        letter-spacing: 2px;
+    }
+    
+    .register_btn_container{
+        margin: 7vw 11vw 0vw;  
+    
+    }
+
+    .login_caption_label_container{  
+        margin: 1vw 0vw 0vw 24vw;
+        width: 28%; 
+        font-size: 1vw;
+        letter-spacing: 0.2px;  
+    } 
+    
+    .login_label_container{
+        margin: 1vw 0vw 0vw;
+        font-size: 1vw;
+        letter-spacing: 0.2px; 
+    }
+
+    .auth_container{ 
+        margin: 0vw 0vw 0vw;
+        width:100%;
+        height: 140vw; 
+        text-align: center;
+        background-image: url(../images/registration_bg1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .registration_text_container{ 
+        margin: 6vw 3vw 1vw;  
+    } 
+
+
+}
+
+
+
+.error{
+    background: #F2DEDE;
+    color: #A94442;
+    margin: 2vw 4vw 0vw;
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+    float: left;
+}
